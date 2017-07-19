@@ -1,8 +1,8 @@
 {
     "name": "clean-blog",
-    "title": "The Unionist",
+    "title": "Clean Blog",
     "version": "1.0.0",
-    "homepage": "theunionist.us",
+    "homepage": "http://startbootstrap.com",
     "author": "Start Bootstrap",
     "license": "MIT",
     "devDependencies": {
